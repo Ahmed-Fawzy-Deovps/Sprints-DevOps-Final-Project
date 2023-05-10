@@ -8,7 +8,7 @@ I'm glad to say that I finished the last DevOps project at Sprints:
 - Jenkins 🚀  
 - Docker 🐳  
 - Kubernetes 🚢  
-- NGINX 🌐  
+- AWS 🌐  
 - Python 🐍  
   
 📝 Created Terraform scripts to:  
